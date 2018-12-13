@@ -1,0 +1,5 @@
+Referensi Link :
+https://medium.com/@easonlai888/tasting-python-machine-learning-insurance-claim-prediction-8775cd0aa926
+
+Data Referensi :
+https://www.kaggle.com/mirichoi0218/insurance/home
